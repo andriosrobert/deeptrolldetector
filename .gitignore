@@ -1,0 +1,9 @@
+*.wav
+*.vscode
+*.ipynb_checkpoints
+*_env
+__*
+*.tar.gz
+data/
+.DS_Store
+logs/
